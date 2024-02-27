@@ -1,4 +1,4 @@
-# # hello-world-composite-action
+# hello-world-composite-action
 
 This is the greeter action to learn about composite actions.
 
